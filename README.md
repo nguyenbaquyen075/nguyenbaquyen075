@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=190&section=header&text=Nguy%E1%BB%85n%20B%C3%A1%20Quy%E1%BA%BFn&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20%26%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f59e0b&height=190&section=header&text=Nguy%E1%BB%85n%20B%C3%A1%20Quy%E1%BA%BFn&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20and%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/nguyenbaquyen075">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=520&lines=AI+Computer+Vision+v%E1%BB%9Bi+YOLOv8;Full-Stack%3A+Next.js+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;DevOps%3A+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=AI+Computer+Vision+v%E1%BB%9Bi+YOLOv8;Full-Stack%3A+Next.js+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;DevOps%3A+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD" alt="typing" />
 </a>
 
 <p>
