@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,100:7dd3fc&height=190&section=header&text=Nguy%E1%BB%85n%20B%C3%A1%20Quy%E1%BA%BFn&fontSize=52&fontColor=0c4a6e&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20and%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dcfce7,100:86efac&height=190&section=header&text=Nguy%E1%BB%85n%20B%C3%A1%20Quy%E1%BA%BFn&fontSize=52&fontColor=14532d&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20and%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/nguyenbaquyen075">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=680&lines=AI+Computer+Vision+v%E1%BB%9Bi+YOLOv8;Full-Stack%3A+Next.js+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;DevOps%3A+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=16A34A&center=true&vCenter=true&width=680&lines=AI+Computer+Vision+v%E1%BB%9Bi+YOLOv8;Full-Stack%3A+Next.js+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;DevOps%3A+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD" alt="typing" />
 </a>
 
 <p>
-  <a href="#ve-toi"><img src="https://img.shields.io/badge/V%E1%BB%81%20t%C3%B4i-0c4a6e?style=for-the-badge&logo=github&logoColor=white" alt="Về tôi" /></a>
-  <a href="#du-an"><img src="https://img.shields.io/badge/D%E1%BB%B1%20%C3%A1n-0369a1?style=for-the-badge&logo=rocket&logoColor=white" alt="Dự án" /></a>
-  <a href="#cong-nghe"><img src="https://img.shields.io/badge/C%C3%B4ng%20ngh%E1%BB%87-0284c7?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Công nghệ" /></a>
-  <a href="#lien-he"><img src="https://img.shields.io/badge/Li%C3%AAn%20h%E1%BB%87-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Liên hệ" /></a>
+  <a href="#ve-toi"><img src="https://img.shields.io/badge/V%E1%BB%81%20t%C3%B4i-14532d?style=for-the-badge&logo=github&logoColor=white" alt="Về tôi" /></a>
+  <a href="#du-an"><img src="https://img.shields.io/badge/D%E1%BB%B1%20%C3%A1n-166534?style=for-the-badge&logo=rocket&logoColor=white" alt="Dự án" /></a>
+  <a href="#cong-nghe"><img src="https://img.shields.io/badge/C%C3%B4ng%20ngh%E1%BB%87-15803d?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Công nghệ" /></a>
+  <a href="#lien-he"><img src="https://img.shields.io/badge/Li%C3%AAn%20h%E1%BB%87-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Liên hệ" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nguyenbaquyen075&color=0ea5e9&style=flat-square&label=Profile+views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=nguyenbaquyen075&color=16a34a&style=flat-square&label=Profile+views" alt="views" />
 
 </div>
 
@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=nguyenbaquyen075&theme=default&hide_border=true&background=F0F9FF&ring=38BDF8&fire=0EA5E9&currStreakNum=0C4A6E&currStreakLabel=0284C7&sideNums=0C4A6E&sideLabels=0369A1&dates=64748B&stroke=BAE6FD&locale=vi" alt="streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=nguyenbaquyen075&theme=default&hide_border=true&background=F0FDF4&ring=4ADE80&fire=16A34A&currStreakNum=14532D&currStreakLabel=15803D&sideNums=14532D&sideLabels=166534&dates=64748B&stroke=BBF7D0&locale=vi" alt="streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -104,5 +104,5 @@
   <a href="mailto:nguyenbaquyen0705@gmail.com"><img src="https://img.shields.io/badge/Gmail-nguyenbaquyen0705-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/nguyenbaquyen075"><img src="https://img.shields.io/badge/GitHub-nguyenbaquyen075-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:e0f2fe&height=100&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86efac,100:dcfce7&height=100&section=footer" width="100%" alt="footer" />
 </div>
