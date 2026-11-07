@@ -26,7 +26,7 @@
       <ul>
         <li>🦺 Đang làm: <b>SafeSight</b> — giám sát đồ bảo hộ lao động bằng AI</li>
         <li>🎓 Đang làm: <b>EduMind AI</b> — nền tảng học có trợ lý AI (RAG)</li>
-        <li>🌱 Đang học: DevOps, Docker, CI/CD</li>
+        <li>🌱 Đang học: Node.js, dotnet</li>
         <li>💬 Hỏi mình về: React / Next.js, Node.js, YOLOv8</li>
       </ul>
     </td>
